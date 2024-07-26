@@ -144,6 +144,11 @@
           }
         ],
         "syntax": {
+           "attribute": {
+            "color": "#83c092",
+            "font_style": null,
+            "font_weight": null
+          },
           "attribute": {
             "color": "#dbbc7f",
             "font_style": null,
